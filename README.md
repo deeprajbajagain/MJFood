@@ -1,37 +1,8 @@
-## Food Ordering App
-
-### Features:
-
----
-
-##### Here's features included in this project
-
-- Add to cart functionality
-- Shopping cart functionality
-- Product Filtering functionality
-- Product page
-- Cart and checkout page
-- Contact page
-- Login and Register page
-- Awesome modern minimalist UI
-
-### Technologies Used:
-
----
-
-1. React.js
-2. Redux Toolkit
-3. ReactStrap
-4. CSS
-
-### How to start?
-
----
-
-##### To start the project along with me just download the start-up file and run available script\
-In the project directory, you can run:\
+To start with this project.\
 1.Download Zip folder.\
 2.Extract the folder .\
 3.Open in VS Code.\
 4.Run `yarn` in terminal.\
+5.Run `npm start`
+
 
