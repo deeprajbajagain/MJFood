@@ -28,15 +28,10 @@
 
 ---
 
-##### To start the project along with me just download the start-up file and run available script
+##### To start the project along with me just download the start-up file and run available script\
+In the project directory, you can run:\
+1.Download Zip folder.\
+2.Extract the folder .\
+3.Open in VS Code.\
+4.Run `yarn` in terminal.\
 
-```javascript
-// first install all necessary dependencies
-
-npm i
-
-// next run
-
-npm start
-
-```
